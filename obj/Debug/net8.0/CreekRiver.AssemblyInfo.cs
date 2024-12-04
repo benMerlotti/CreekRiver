@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CreekRiver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8387b82bd3389880113afefcc1c7adac93dadbf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5011fa0e895c8286b92de17ba035b9f8b19c52b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CreekRiver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CreekRiver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
